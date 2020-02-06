@@ -3,7 +3,8 @@ Laniakea logos
 
 These are current official Laniakea logos, created by Pasqualino Caputo.
 
-# LaniakeaLogo
+Laniakea Logo
+-------------
 
 * White background, symbol + "Laniakea":
     [<img src="/laniakea/laniakea_logo_def.png" alt="Laniakea Logo, white background" />](/laniakea/laniakea_logo_def.png),
